@@ -5,4 +5,4 @@
 
 [build.environment]
   NAME = "draksha"
-  PIC = "pic.jpeg"
+  PIC = "https://raw.githubusercontent.com/kush8906/Happy-birthday/main/src/pic.jpeg"
